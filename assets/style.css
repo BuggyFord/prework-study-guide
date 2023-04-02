@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: firebrick;
+
+}
+
+.container .logo h1 {
+    padding: 20px;
+    font-size: 30px;
+    color:#ddd;
+}    
+
+
+.container .links ul li {
+    padding: 15px;
+    display: inline;
+}
