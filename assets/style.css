@@ -33,6 +33,7 @@ p {
     text-align: center;
     font-size: 30px;
   }
+  
   .card {
     width: 80%;
     margin: 40px auto;
@@ -40,22 +41,3 @@ p {
     box-shadow: 5px 10px #888888;
   }
   
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: firebrick;
-
-}
-
-.container .logo h1 {
-    padding: 20px;
-    font-size: 30px;
-    color:#ddd;
-}    
-
-
-.container .links ul li {
-    padding: 15px;
-    display: inline;
-}
