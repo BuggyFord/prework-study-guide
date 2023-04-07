@@ -5,7 +5,7 @@
 - My motivation was to gain new skills to move forward in my career and life. 
 - To accomplish this I used the prework study guide to build and to establish a solid foudation of the necesarry skills tools and sofware to begin my education in what will be my new career. 
 - In turn I was able to solve many problems and challenges along the way , from how to open my terminal to building the rudimentary webpage. 
-- In turn i have learned more things than I can even recall for a brief readme description. 
+- In turn i have learned more things than I can even recall for a brief readme description. yup.
 
 
 
